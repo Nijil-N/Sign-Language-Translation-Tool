@@ -9,7 +9,7 @@ This project recognizes **American Sign Language (ASL)** alphabets using a Convo
 ## 📁 Folder Structure
 
 project/
-│
+|
 ├── train_model.py         # Train and save the model
 ├── translation.py         # Real-time ASL prediction using webcam
 ├── saved_model/
